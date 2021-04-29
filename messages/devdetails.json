@@ -1,0 +1,38 @@
+{
+  "STATUS": [
+    {
+      "STATUS": "S",
+      "When": 1619624253,
+      "Code": 69,
+      "Msg": "Device Details",
+      "Description": "cgminer 4.9.2"
+    }
+  ],
+  "DEVDETAILS": [
+    {
+      "DEVDETAILS": 0,
+      "Name": "SM",
+      "ID": 0,
+      "Driver": "bitmicro",
+      "Kernel": "",
+      "Model": "M21SV20"
+    },
+    {
+      "DEVDETAILS": 1,
+      "Name": "SM",
+      "ID": 1,
+      "Driver": "bitmicro",
+      "Kernel": "",
+      "Model": "M21SV20"
+    },
+    {
+      "DEVDETAILS": 2,
+      "Name": "SM",
+      "ID": 2,
+      "Driver": "bitmicro",
+      "Kernel": "",
+      "Model": "M21SV20"
+    }
+  ],
+  "id": 1
+}

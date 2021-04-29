@@ -1,0 +1,29 @@
+{
+  "name": "whats-miner-simulator",
+  "version": "0.0.0",
+  "description": "WhatsMiner TCP JSON API simulator",
+  "scripts": {
+    "start": "node server.js",
+    "test": "standard --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thermocline-labs/whats-miner-simulator.git"
+  },
+  "keywords": [
+    "whats",
+    "miner",
+    "tcp",
+    "json",
+    "api",
+    "simulator"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thermocline-labs/whats-miner-simulator/issues"
+  },
+  "homepage": "https://github.com/thermocline-labs/whats-miner-simulator#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}

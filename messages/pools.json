@@ -1,0 +1,51 @@
+{
+  "STATUS": [
+    {
+      "STATUS": "S",
+      "When": 1619624253,
+      "Code": 7,
+      "Msg": "1 Pool(s)",
+      "Description": "cgminer 4.9.2"
+    }
+  ],
+  "POOLS": [
+    {
+      "POOL": 0,
+      "URL": "stratum+tcp://eu.stratum.slushpool.com:3333",
+      "Status": "Alive",
+      "Priority": 0,
+      "Quota": 1,
+      "Long Poll": "N",
+      "Getworks": 7,
+      "Accepted": 51,
+      "Rejected": 0,
+      "Works": 2147988,
+      "Discarded": 3377,
+      "Stale": 0,
+      "Get Failures": 0,
+      "Remote Failures": 0,
+      "User": "ianjorgensen",
+      "Last Share Time": 1619624250,
+      "Diff1 Shares": 6016,
+      "Proxy Type": "",
+      "Proxy": "",
+      "Difficulty Accepted": 776931,
+      "Difficulty Rejected": 0,
+      "Difficulty Stale": 0,
+      "Last Share Difficulty": 25599,
+      "Work Difficulty": 0,
+      "Has Stratum": true,
+      "Stratum Active": true,
+      "Stratum URL": "eu.stratum.slushpool.com",
+      "Stratum Difficulty": 25599,
+      "Has GBT": false,
+      "Best Share": 3422561,
+      "Pool Rejected%": 0,
+      "Pool Stale%": 0,
+      "Bad Work": 5,
+      "Current Block Height": 680990,
+      "Current Block Version": 536870912
+    }
+  ],
+  "id": 1
+}
